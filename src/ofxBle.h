@@ -1,5 +1,5 @@
 //
-//  ofxBle.h
+//  ofxBLE.h
 //
 //  Created by Andikan on 11/11/2014.
 //

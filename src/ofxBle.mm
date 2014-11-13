@@ -1,11 +1,11 @@
 //
-//  ofxBle.m
+//  ofxBLE.m
 //
 //  Created by Andikan on 11/11/2014.
 //
 //
 
-#include "ofxBle.h"
+#include "ofxBLE.h"
 #import "BLE.h"
 
 // Objective C class implementations
